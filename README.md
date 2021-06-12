@@ -1,20 +1,17 @@
-# jam_portfolio
+techpitの講座で作ったポートフォリオサイト
 
-## Build Setup
+https://toshimitsu-nuxt-blog.netlify.app/
 
-```bash
-# install dependencies
-$ npm install
+## 使用技術
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+フロント
+ - Nuxt.js
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+CSS
+ - tailwindcss
 
-# generate static project
-$ npm run generate
-```
+バックエンド
+ - contentful
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+サーバー
+ - Netlify
